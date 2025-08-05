@@ -1,3 +1,4 @@
+#Hello Ms. Meghana this is a code change method in GITHUB
 #include<stdio.h>
 #include<conio.h>
 void main() {
@@ -8,4 +9,5 @@ scanf("%f %f %f", &p, &r, &t);
 SI = (p * r * t) / 100;
 printf("simple Intrest = %.2f", SI);
 getch();
+
 }
